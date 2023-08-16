@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 .ookiku {
   font-family: 'DotGothic16', sans-serif;
-  font-size: 30px;
+  font-size: 100px;
   /* 水平方向の中央揃え */
   margin: 0 auto;
 }
